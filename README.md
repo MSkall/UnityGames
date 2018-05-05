@@ -1,3 +1,3 @@
 # UnityGames
 
-A portfolio containing the current Unity games I am working on.
+A portfolio containing the current games I am working on in Unity.
