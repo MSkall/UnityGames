@@ -1,6 +1,6 @@
 # Masking the Murder
 
-Masking the Murder is a first person rhythm action game where you need to track down your old colleague amidst a high class dinner party and take their life.
+Masking the Murder is a third person rhythm action game where you need to track down your old colleague amidst a high class dinner party and take their life.
 
 Setting: The setting is a grand dance hall/room where your target is hidden from you. Guards are patrolling the surrounding area and are on the lookout for anyone suspicious.
 
