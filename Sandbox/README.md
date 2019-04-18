@@ -1,6 +1,6 @@
 # Sandbox
 
-This is an ongoing project. It is the first game I ever attempted to create in Unity and I hope to be able to come back to it and flesh it out into a real game.
+This is an ongoing project. It is the first game I ever attempted to create in Unity and I hope to be able to come back to it and flesh it out into a full game.
 
 It incorporates particle systems, colliders, spawning, and object collection.
 
