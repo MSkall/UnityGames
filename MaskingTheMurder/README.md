@@ -8,7 +8,11 @@ Main premise of the game: The goal is to remain hidden from your target so they 
 
 ![2019-04-17 06-15-07_Moment(2).jpg](https://github.com/MSkall/UnityGames/blob/master/MaskingTheMurder/Photos/2019-04-17%2006-15-07_Moment(2).jpg)
 
+![2019-04-17 06-15-07_Moment(3).jpg](https://github.com/MSkall/UnityGames/blob/master/MaskingTheMurder/Photos/2019-04-17%2006-15-07_Moment(3).jpg)
 
+![2019-04-17 06-15-07_Moment(4).jpg](https://github.com/MSkall/UnityGames/blob/master/MaskingTheMurder/Photos/2019-04-17%2006-15-07_Moment(4).jpg)
+
+![2019-04-17 06-15-07_Moment.jpg](https://github.com/MSkall/UnityGames/blob/master/MaskingTheMurder/Photos/2019-04-17%2006-15-07_Moment.jpg)
 
 This project's contributors include myself, my partner Michael Perce, and Jacob Brickman from the Berklee College of Music. It is a semester-long project for CTIN 484/489, which we work with a partner to create a game, gaining the skills and experiences of working with others, learning to communicate ideas clearly, and meeting deadlines.
 
