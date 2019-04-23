@@ -2,7 +2,7 @@
 
 Masking the Murder is a third person rhythm action game where you need to track down your old colleague amidst a high class dinner party and take their life.
 
-You can see a rough-cut trailer here: https://www.youtube.com/watch?v=sQJLTTSHuEs&feature=youtu.be
+You can see a trailer here: https://www.youtube.com/watch?v=QZ3y0tK1QBA&feature=youtu.be
 
 Setting: The setting is a grand dance hall/room where your target is hidden from you. Guards are patrolling the surrounding area and are on the lookout for anyone suspicious.
 
